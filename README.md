@@ -32,3 +32,7 @@ Propuesta de gobierno de datos para el sistema académico-administrativo de la u
 ## Nota
 
 Trabajos académicos; no constituyen una auditoría oficial ni representan una posición de la Pontificia Universidad Javeriana.
+
+## Licencia
+
+El contenido de este repositorio (código, documentos y figuras propias) se publica bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es): puede compartirse y adaptarse citando a los autores. Ver [`LICENSE`](LICENSE).
